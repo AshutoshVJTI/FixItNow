@@ -33,7 +33,7 @@ FixItNow is an innovative mobile application designed to address everyday frustr
 2. **Installation**
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/fixitnow.git
+   git clone https://github.com/ashutoshvjti/fixitnow.git
    cd fixitnow
 
    # Install dependencies
@@ -94,12 +94,6 @@ FixItNow is an innovative mobile application designed to address everyday frustr
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-- [Your Name] - Developer & Project Lead
-- [Team Member] - UI/UX Designer
-- [Team Member] - Product Manager
 
 ## 📫 Contact
 
